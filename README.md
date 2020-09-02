@@ -6,3 +6,6 @@ Ajout des moduleC1 et B en version diagramme.
 
 2019-09-22
 Ajout du moduleC3
+
+2020-09-01
+Ajout du seciont Hiver 2020
