@@ -95,8 +95,8 @@ $corps='<div class="w3-content">
 $pied='</body>
 </html>';
 
-print $tete;
-print $corps;
-print $pied;
+//print $tete;
+// print $corps;
+//print $pied;
 
 ?>
